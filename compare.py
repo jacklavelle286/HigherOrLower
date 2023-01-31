@@ -1,4 +1,3 @@
-from art import *
 from game_data import *
 import random
 
