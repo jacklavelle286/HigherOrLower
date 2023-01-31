@@ -8,9 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You need to have the following packages installed:
+You need to have the following package installed:
 
--   `art`
 -   `random`
 
 ### Installing
@@ -29,7 +28,7 @@ rubyCopy code
 
 `$ python followers_comparison_game.py` 
 
-The game will start and you will be prompted to make a guess.
+The game will start and you will be prompted to make a guess. The game will he continue as long as you guess correctly. 
 
 ## Built With
 
